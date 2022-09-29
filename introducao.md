@@ -32,4 +32,4 @@ Assiste ao vídeo [C - A Linguagem de Programação que é uma Mãe](https://www
 
 ## O que vem em seguida:
 
-[Variáveis > ]([https://google.com.br](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md))
+[Variáveis > ](https://google.com.br](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md)
