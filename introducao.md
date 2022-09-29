@@ -60,6 +60,28 @@ Assiste ao vídeo [C - A Linguagem de Programação que é uma Mãe](https://www
 
 ### Instalando o Compilador C
 
+- Instalando o GCC no Linux;
+- Instalando o GCC no Windows;
+
+### Compilando Nosso Primeiro Código Fonte
+
+    #include<stdio.h>
+    
+    voi main ()
+    {
+      int function main()
+      {
+            return 0;
+      }
+    }
+
+O download do código fonto acima pode ser realizado (aqui)[]. Sugiro que salve o código em uma pasta com o nome do seu projeto, por exemplo:
+_C:/Documentos/meu_projeto/main.c_ caso esteja utilizando Windows, 
+
+ou _/home/usuario/Code/meu_projeto/main.c_ no caso de estar operando no Linux.
+
+
+
 ## Em resumo
 
 ## O que vem em seguida:
