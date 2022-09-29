@@ -76,12 +76,18 @@ Assiste ao vídeo [C - A Linguagem de Programação que é uma Mãe](https://www
     }
 
 O download do código fonto acima pode ser realizado (aqui)[]. Sugiro que salve o código em uma pasta com o nome do seu projeto, por exemplo:
+
 _C:/Documentos/meu_projeto/main.c_ caso esteja utilizando Windows, 
 
 ou _/home/usuario/Code/meu_projeto/main.c_ no caso de estar operando no Linux.
 
+    $ gcc main -o main.c
+    
+a...
 
-
+    $ ./main
+  
+some text
 ## Em resumo
 
 ## O que vem em seguida:
