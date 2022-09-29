@@ -9,22 +9,19 @@ O computador é uma máquina eletrônica capaz de realizar uma grande variedade 
 
 Isso mesmo! Quando utilizo o termo binário, estou me referindo aos dígitos zero (0) e um (1). A forma mais próxima, e também muito complexa, de se criar um programa para realizar tarefas no computador é por meio da linguagem __Assembly__. Assim tarefas são realizadas através da execução de operações lógicas /aritméticas e tomada de decisões.
 
-
+A linguagem Assembly é classificada como de __baixo nível__ por causa de sua pouca abstração em relação às intruções escritas. Enquanto que linguagens de médio e ato níveis possuem um grau de abstração maior, utilizando simbolos que são mais amigáveis ao ser humano (como as palavras do nosso idioma nativo). Porém, após a criação de um código, que chamaremos aqui de __código fonte__, geralmente precisamos traduzir nossas linhas para a linguagem de máquina, afim que ela retorne os resultados esperado. Isto é realizado através de outros programas chamados __compiladores__. Para facilitar o entendimento, você pode visualizar um compilador como um tradutor que traduz os símbolos familiares para o ser humano em códigos binários compreensíveis apenas pelo computador.
 
 Desta forma o computador forma o que chamamos de __sistema de computação__, onde temos a parte física (ou hardware) e a parte lógica (o software). Um sistema de computação também realiza as três funções básicas: entrada, processamento e saída. A entrada de um sistema de computação corresponde ao conjunto dos dados necessários para a realização de uma tarefa. O processamento refere-se às modificações realizadas sobre os dados de entrada e à elaboração dos resultados. A saída corresponde ao conjunto de dados resultantes obtidos.
 
-### Um sistema de computação está organizado em 2 componentes: o hardware e o software.
-- HARDWARE - é a parte física que está dividida em 5 partes funcionais: unidades de entrada, unidades de saída, memória principal, memória secundária e unidade central de processamento (UCP). A UCP (ou processador) é composta da unidade de controle (UC) e da unidade lógica e aritmética (ULA).
-- SOFTWARE: é o conjunto de programas
-  - O software é classificado em dois tipos: 
-    - o software aplicativo 
-    - e o software básico.
+O software é classificado em dois tipos: 
+- o software aplicativo:
+  - os quais executam uma tarefa específica, uma aplicação. Exemplos são: editores de texto, planilhas eletrõnicas, editores de imagem, etc.
+- e o software básico:
+  - este realizam funções essenciais no próprio hardware. 
 
+Durante nosso curso vamos desenvolver (criar) nossos próprios códigos fonte e gerar um arquivo executável, um programa, com a ajuda de um compilador apropriado para a linguagem C.
 
-
-#### Compiladores
-
-[Compiladores - O Programa Essencial de Todos os Programadores](https://www.youtube.com/watch?v=afUiVvDUIRA), disponibilizado pelo canal no YouTube [Código Fonte TV](https://www.youtube.com/c/codigofontetv)
+Pra aprofundar um pouco mais, veja o vídeo [Compiladores - O Programa Essencial de Todos os Programadores](https://www.youtube.com/watch?v=afUiVvDUIRA), disponibilizado pelo canal no YouTube [Código Fonte TV](https://www.youtube.com/c/codigofontetv)
 
 ### A Linguagem _C_
 
