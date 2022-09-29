@@ -5,7 +5,39 @@
 
 ### Sobre Programas e Computadores
 
-[Compiladores](https://www.youtube.com/watch?v=afUiVvDUIRA)
+computador é uma máquina eletrônica capaz de realizar uma grande variedade de tarefas com alta velocidade e precisão, desde que receba as instruções adequadas.
+
+- As tarefas são realizadas a traves da execução de operações lógicas /aritméticas e tomada de decisões.
+- As instruções adequadas constituem os programas que dirigem o funcionamento do computador.
+
+Computador = parte física (hardware) + parte lógica (software).
+- Hardware é o conjunto de todos os elementos físicos que compõe o computador (o equipamento propriamente dito).
+- Software é o conjunto de instruções que controla e orienta (instrui) o computador para execução de tarefas.
+
+Toda máquina é um sistema. O que é um sistema?
+
+- Sistema é um conjunto de componentes que realiza as seguintes funções
+
+### Organização e funcionamento do computador
+
+Sistema de computação realiza processamento eletrônico de dados.
+- Um sistema de computação também realiza as três funções básicas: entrada, processamento e saída.
+- A entrada de um sistema de computação corresponde ao conjunto dos dados necessários para a realização de uma tarefa.
+- O processamento refere-se às modificações realizadas sobre os dados de entrada e à elaboração dos resultados.
+- A saída corresponde ao conjunto de dados resultantes obtidos.
+
+### Um sistema de computação está organizado em 2 componentes: o hardware e o software.
+- HARDWARE - é a parte física que está dividida em 5 partes funcionais: unidades de entrada, unidades de saída, memória principal, memória secundária e unidade central de processamento (UCP). A UCP (ou processador) é composta da unidade de controle (UC) e da unidade lógica e aritmética (ULA).
+- SOFTWARE: é o conjunto de programas
+  - O software é classificado em dois tipos: 
+    - o software aplicativo 
+    - e o software básico.
+
+
+
+#### Compiladores
+
+[Compiladores - O Programa Essencial de Todos os Programadores](https://www.youtube.com/watch?v=afUiVvDUIRA), disponibilizado pelo canal no YouTube [Código Fonte TV](https://www.youtube.com/c/codigofontetv)
 
 ### A Linguagem _C_
 
