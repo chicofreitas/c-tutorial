@@ -14,7 +14,7 @@ C99 é um nome informal para ISO/IEC 9899:1999, uma versão anterior do padrão 
 
 A linguagem C foi inventada para desenvolver o sistema operacional Unix.
 
-[C - A Linguagem Mãe](https://www.youtube.com/watch?v=6mUCcsnCn08)
+Assiste ao vídeo [C - A Linguagem de Programação que é uma Mãe](https://www.youtube.com/watch?v=6mUCcsnCn08), disponibilizado pelo canal no YouTube [Código Fonte TV](https://www.youtube.com/c/codigofontetv) para saber um pouco mais sobre a linguagem C.
 
 ## Em resumo
 
