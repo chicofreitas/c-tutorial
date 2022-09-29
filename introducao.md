@@ -12,6 +12,8 @@ A linguagem de programação C é uma linguagem de programação de computador p
 
 C99 é um nome informal para ISO/IEC 9899:1999, uma versão anterior do padrão de linguagem de programação C.
 
+A linguagem C foi inventada para desenvolver o sistema operacional Unix.
+
 ## Em resumo
 
 ## O que vem em seguida:
