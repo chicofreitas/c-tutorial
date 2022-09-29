@@ -25,15 +25,9 @@ Pra aprofundar um pouco mais, veja o vídeo [Compiladores - O Programa Essencial
 
 ### A Linguagem _C_
 
-A linguagem de programação C é uma sucessora da linguagem de programação B. A linguagem de programação C foi desenvolvida por um cientista da computação americano Dennis M. Ritchie nos Laboratórios Bell (anteriormente AT&T Bell Laboratories).
+A linguagem de programação C foi desenvolvida por um cientista da computação americano Dennis M. Ritchie nos Laboratórios Bell (anteriormente AT&T Bell Laboratories) em 1972, para desenvolver o sistema operacional Unix. C é uma linguagem de nível médio porque contém os recursos da linguagem de baixo nível, bem como da linguagem de alto nível. A linguagem de programação C é uma linguagem de programação de computador __procedural__ de __propósito geral__ que suporta __programação estruturada__.
 
-C é uma linguagem de nível médio porque contém os recursos da linguagem de baixo nível, bem como da linguagem de alto nível.
-
-A linguagem de programação C é uma linguagem de programação de computador procedural de propósito geral que suporta programação estruturada.
-
-C99 é um nome informal para ISO/IEC 9899:1999, uma versão anterior do padrão de linguagem de programação C.
-
-A linguagem C foi inventada para desenvolver o sistema operacional Unix.
+A linguagem de programação C é uma sucessora da linguagem de programação B. Uma versão anterior do padrão de linguagem de programação C era chamado C99, um nome informal para ISO/IEC 9899:1999. C faz parte da criação de outros sistemas operacionais, linguagens de programação e muitas aplicações utilizadas comercialmente.
 
 Assiste ao vídeo [C - A Linguagem de Programação que é uma Mãe](https://www.youtube.com/watch?v=6mUCcsnCn08), disponibilizado pelo canal no YouTube [Código Fonte TV](https://www.youtube.com/c/codigofontetv) para saber um pouco mais sobre a linguagem C.
 
@@ -44,19 +38,18 @@ Assiste ao vídeo [C - A Linguagem de Programação que é uma Mãe](https://www
 
 ### Instalando o Compilador C
 
-- Instalando o GCC no Linux;
-- Instalando o GCC no Windows;
+Não vamos detalhar aqui a instalação dos compiladores, mas segue abaixo alguns links de tutoriais que podem ajudar nesta tarefa:
+- [Instalando o GCC no Linux](https://pt.linuxcapable.com/install-gcc-compiler-build-essential-on-ubuntu-20-04-lts/);
+- [Instalando o GCC no Windows](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/);
 
 ### Compilando Nosso Primeiro Código Fonte
 
-    #include<stdio.h>
+    #include <stdio.h>
     
-    voi main ()
+    int main()
     {
-      int function main()
-      {
-            return 0;
-      }
+          printf("Hello, World from Linuxcapable.com!");
+          return 0;
     }
 
 O download do código fonto acima pode ser realizado (aqui)[]. Sugiro que salve o código em uma pasta com o nome do seu projeto, por exemplo:
