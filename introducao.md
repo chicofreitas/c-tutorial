@@ -4,7 +4,7 @@
 
 ### A Linguagem _C_
 
-some text ...
+A linguagem de programação C foi desenvolvida por um cientista da computação americano Dennis M. Ritchie nos Laboratórios Bell (anteriormente AT&T Bell Laboratories). 
 
 ## Em resumo
 
