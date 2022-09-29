@@ -52,11 +52,15 @@ Não vamos detalhar aqui a instalação dos compiladores, mas segue abaixo algun
           return 0;
     }
 
-O download do código fonto acima pode ser realizado (aqui)[]. Sugiro que salve o código em uma pasta com o nome do seu projeto, por exemplo:
+O download do código fonte acima pode ser realizado [aqui](https://github.com/chicofreitas/c-tutorial/blob/main/src/main.c). Sugiro que salve o código em uma pasta com o nome do seu projeto, por exemplo:
 
 _C:/Documentos/meu_projeto/main.c_ caso esteja utilizando Windows, 
 
 ou _/home/usuario/Code/meu_projeto/main.c_ no caso de estar operando no Linux.
+
+Note que o arquivo está nomeado como __main.c__. Todos os arquivos que utilizaremos para programar em C devem conter a extensão __\*.c__. Por exemplo: *calculadora.c*, *imprimir.c*, *open_files.c*,...
+
+Tendo o arquivo *main.c* em mãos, agora vamos realizar a sua compilação utilizando o compilador __GCC__. Abra o terminal e navegue até o diretório em que o arquivo foi salvo. Em seguida, execute o comando abaixo:
 
     $ gcc main -o main.c
     
@@ -65,6 +69,9 @@ a...
     $ ./main
   
 some text
+
+    $ Hello, World from Linuxcapable.com!
+    
 ## Em resumo
 
 ## O que vem em seguida:
