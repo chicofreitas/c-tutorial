@@ -1,30 +1,17 @@
 # Introdução
 
 ## O que vamos aprender
-
+-
 
 ### Sobre Programas e Computadores
 
-computador é uma máquina eletrônica capaz de realizar uma grande variedade de tarefas com alta velocidade e precisão, desde que receba as instruções adequadas.
+O computador é uma máquina eletrônica capaz de realizar uma grande variedade de tarefas com alta velocidade e precisão, desde que receba as __instruções__ adequadas. Estas instruções são como uma receita, em que os passos para a realização de uma tarefa é escrita em uma linguagem apropriada, a __linguagem de máquina__. As instruções adequadas constituem os programas que dirigem o funcionamento do computador e estão escritas em __código binário__.
 
-- As tarefas são realizadas a traves da execução de operações lógicas /aritméticas e tomada de decisões.
-- As instruções adequadas constituem os programas que dirigem o funcionamento do computador.
+Isso mesmo! Quando utilizo o termo binário, estou me referindo aos dígitos zero (0) e um (1). A forma mais próxima, e também muito complexa, de se criar um programa para realizar tarefas no computador é por meio da linguagem __Assembly__. Assim tarefas são realizadas através da execução de operações lógicas /aritméticas e tomada de decisões.
 
-Computador = parte física (hardware) + parte lógica (software).
-- Hardware é o conjunto de todos os elementos físicos que compõe o computador (o equipamento propriamente dito).
-- Software é o conjunto de instruções que controla e orienta (instrui) o computador para execução de tarefas.
 
-Toda máquina é um sistema. O que é um sistema?
 
-- Sistema é um conjunto de componentes que realiza as seguintes funções
-
-### Organização e funcionamento do computador
-
-Sistema de computação realiza processamento eletrônico de dados.
-- Um sistema de computação também realiza as três funções básicas: entrada, processamento e saída.
-- A entrada de um sistema de computação corresponde ao conjunto dos dados necessários para a realização de uma tarefa.
-- O processamento refere-se às modificações realizadas sobre os dados de entrada e à elaboração dos resultados.
-- A saída corresponde ao conjunto de dados resultantes obtidos.
+Desta forma o computador forma o que chamamos de __sistema de computação__, onde temos a parte física (ou hardware) e a parte lógica (o software). Um sistema de computação também realiza as três funções básicas: entrada, processamento e saída. A entrada de um sistema de computação corresponde ao conjunto dos dados necessários para a realização de uma tarefa. O processamento refere-se às modificações realizadas sobre os dados de entrada e à elaboração dos resultados. A saída corresponde ao conjunto de dados resultantes obtidos.
 
 ### Um sistema de computação está organizado em 2 componentes: o hardware e o software.
 - HARDWARE - é a parte física que está dividida em 5 partes funcionais: unidades de entrada, unidades de saída, memória principal, memória secundária e unidade central de processamento (UCP). A UCP (ou processador) é composta da unidade de controle (UC) e da unidade lógica e aritmética (ULA).
