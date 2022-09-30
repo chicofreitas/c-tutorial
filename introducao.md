@@ -44,11 +44,13 @@ Não vamos detalhar aqui a instalação dos compiladores, mas segue abaixo algun
 
 ### Compilando Nosso Primeiro Código Fonte
 
+Neste seção vamos executar nosso primeiro programa. O código fonte abaixo é um exemplo de código escrito utilizando a linguagem C. Os detalhes sobre a estrutura do código serão discutidas em breve. Por isso, não fique assustado com as linhas a princípio sem sentido. Vamos focar nossa atenção no processo de compilação.
+
     #include <stdio.h>
     
     int main()
     {
-          printf("Hello, World from Linuxcapable.com!");
+          printf("Hello, World!\n");
           return 0;
     }
 
@@ -62,15 +64,21 @@ Note que o arquivo está nomeado como __main.c__. Todos os arquivos que utilizar
 
 Tendo o arquivo *main.c* em mãos, agora vamos realizar a sua compilação utilizando o compilador __GCC__. Abra o terminal e navegue até o diretório em que o arquivo foi salvo. Em seguida, execute o comando abaixo:
 
-    $ gcc main -o main.c
+    $ gcc main.c -o main
     
-a...
+Se tudo ocorrer bem, um arquivo executável *main* será gerado no mesmo diretório do arquivo *main.c*. Vocẽ pode conferir executando o comando
+
+    $ ls
+
+para listar todos os arquivos no diretório. Observe que o novo arquivo não possui uma extensão, como *.c* ou *.bin*.
+
+Agora, chegou a hora de testar nosso primeiro primeiro programa. Execute o arquivo *main* da seguinte forma:
 
     $ ./main
   
-some text
+Após executar o comando acima, uma frase com o texto "Hello, World!" deve aparecer na linha seguinte.
 
-    $ Hello, World from Linuxcapable.com!
+    $ Hello, World!\n
     
 ## Em resumo
 
