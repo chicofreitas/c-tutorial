@@ -1,7 +1,9 @@
 # Introdução
 
 ## O que vamos aprender
--
+- Saber como um computador executa seus programas;
+- Compreender os conceitos de linguagem de máquina e seus níveis de abstração;
+- Aprender como compilar um código fonte escrito na liguagem C; 
 
 ### Sobre Programas e Computadores
 
@@ -69,6 +71,7 @@ Tendo o arquivo *main.c* em mãos, agora vamos realizar a sua compilação utili
 Se tudo ocorrer bem, um arquivo executável *main* será gerado no mesmo diretório do arquivo *main.c*. Vocẽ pode conferir executando o comando
 
     $ ls
+    main    main.c
 
 para listar todos os arquivos no diretório. Observe que o novo arquivo não possui uma extensão, como *.c* ou *.bin*.
 
@@ -82,6 +85,12 @@ Após executar o comando acima, uma frase com o texto "Hello, World!" deve apare
     
 ## Em resumo
 
+- Um computador executa as tarefas escritas em uma linguagem binária ou Assembly;
+- Um programador precisa escrever um código fonte em alguma linguagem, para em seguida ser compilado em código de máquina para ser utilizado pelo computador;
+- Ao utilizar o comand __gcc main.c -o main__ um novo arquivo (__main__) executável é gerado e pode ser executado através do comando __./main__.
+- 
 ## O que vem em seguida:
+
+Agora que aprendemos um pouco sobre como criar programas executáveis, nosso próximo passo é aprender como armazenar alguns tipos de dados e utilizá-los de alguma forma em um momento seguinte.
 
 [Variáveis > ](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md)
