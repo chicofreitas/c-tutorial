@@ -12,7 +12,12 @@ O nome de uma variável pode ser composto por letras, dígitos e o caractere sub
 
 ## Tipos básicos
 
-some text...
+| TIPO   | DESCRIÇÂO                                           |
+|--------|-----------------------------------------------------|                          
+| char   | Tipo inteiro que representa um caractere.           |
+| int    | O tamanho mais natural para um inteiro na máquina.  |
+| float  |                                                     |
+| double |                                                     |
 
 ## Declaração de variáveis
 
