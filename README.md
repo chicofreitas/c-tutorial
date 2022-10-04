@@ -2,7 +2,7 @@
 
 ## SUMÀRIO
 1. [Introdução](https://github.com/chicofreitas/c-tutorial/blob/main/introducao.md)
-2. Estrutura de um código em C
+2. [Estrutura de um código em C](https://github.com/chicofreitas/c-tutorial/blob/main/o-codigo.md)
 3. [Variáveis e Tipos de Dados](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md)
 4. Expressões;
 5. Operadores;
