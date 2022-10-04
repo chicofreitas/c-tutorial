@@ -93,4 +93,4 @@ Após executar o comando acima, uma frase com o texto "Hello, World!" deve apare
 
 Agora que aprendemos um pouco sobre como criar programas executáveis, nosso próximo passo é aprender como armazenar alguns tipos de dados e utilizá-los de alguma forma em um momento seguinte.
 
-[Variáveis > ](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md)
+[Entendendo o Código Fonte > ](https://github.com/chicofreitas/c-tutorial/blob/main/o-codigo.md)
