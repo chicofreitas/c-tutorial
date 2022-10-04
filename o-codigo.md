@@ -1,4 +1,4 @@
-# Entendenndo o código fonte
+# Entendendo o código fonte
 
 ## Objetivos de aprendizagem
 - Entender a estrutura de um código fonte escrito em C.
