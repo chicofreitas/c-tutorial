@@ -47,4 +47,4 @@ Em resumo, esta é a estrutura básica de um código fonte escrito em C. Tente m
 e execute com o comando abaixo:
 
     $ ./a.out
-[Introdução]() | Sum | [Variáveis](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md)
+[Introdução]() | [Sumário](https://github.com/chicofreitas/c-tutorial/blob/main/README.md) | [Variáveis](https://github.com/chicofreitas/c-tutorial/blob/main/variaveis.md)
